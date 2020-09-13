@@ -27,7 +27,7 @@ The main purpose of the ChromeDriver is to launch Google Chrome. Without that, i
 
 The website i tried selenium on it is https://covid19.who.int/table it's about the corona virus spreading in all the countries
 
-![Image of Web page](images/the webpage.png)
+![Image of Web page](images/thewebpage.png)
 
 First when you open any webpage you want to scrape you have to inspect the page to see the Data you want to target.
 
@@ -48,6 +48,6 @@ One of the most fundamental and crucial interactions while Selenium automation t
 Link = driver.find_element_by_link_text('The Link word you want to go to')
 Link.click()
 
-![Image of Link Click page](images/Link Click .png)
+![Image of Link Click page](images/LinkClick.png)
 
 
